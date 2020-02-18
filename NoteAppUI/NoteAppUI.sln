@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteAppUI", "NoteAppUI\NoteAppUI.csproj", "{C1BAB578-3388-4D45-A208-005F4524C896}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteAppUI", "NoteAppUI\NoteAppUI.csproj", "{7792FB21-3028-401C-9C21-600479EB942F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C1BAB578-3388-4D45-A208-005F4524C896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1BAB578-3388-4D45-A208-005F4524C896}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1BAB578-3388-4D45-A208-005F4524C896}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1BAB578-3388-4D45-A208-005F4524C896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7792FB21-3028-401C-9C21-600479EB942F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7792FB21-3028-401C-9C21-600479EB942F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7792FB21-3028-401C-9C21-600479EB942F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7792FB21-3028-401C-9C21-600479EB942F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BFBC1E36-6360-451E-B53F-C50AFBB3DDF6}
+		SolutionGuid = {303C6F42-D98D-4440-8BE9-294F10CCFE1A}
 	EndGlobalSection
 EndGlobal
