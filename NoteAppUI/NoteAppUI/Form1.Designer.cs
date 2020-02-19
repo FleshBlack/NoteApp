@@ -3,7 +3,7 @@ namespace NoteAppUI
 {
     partial class Form1
     {
-        /// <summary>
+        /// <summary> jjkjkjk
         /// Обязательная переменная конструктора.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
